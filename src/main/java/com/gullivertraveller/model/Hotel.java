@@ -1,4 +1,4 @@
-package com.gulliver.traveller.model;
+package com.gullivertraveller.model;
 
 public class Hotel {
 	private String nome;
